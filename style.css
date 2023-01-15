@@ -69,7 +69,7 @@ img {
     background-position: center top;
 }
 #home {
-    background-image: url("/HTML-CSS-Webdesign-5/WCBCafe/images/menu-bg.jpg");
+    background-image: url(main-bg.jpg);
     min-height:100vh;
 }
 #home .page-title {
