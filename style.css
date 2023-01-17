@@ -88,8 +88,14 @@ img {
     height: 270px;
     margin-bottom: 40px;
 }
+
 #news .page-title {
     text-align: center;
+}
+.news-contents {
+    display: flex;
+    justify-content: space-between;
+    margin-bottom: 50px;
 }
 footer {
     background: #432;
@@ -105,11 +111,6 @@ article {
 }
 aside {
     width: 22%;
-}
-.news-contents {
-    display: flex;
-    justify-content: space-between;
-    margin-bottom: 50px;
 }
 .post-info {
     position: relative;
